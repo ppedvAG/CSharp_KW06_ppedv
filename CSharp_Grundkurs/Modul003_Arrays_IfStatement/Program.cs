@@ -7,6 +7,8 @@ namespace Modul003_Arrays_IfStatement
     {
         static void Main(string[] args)
         {
+
+            #region Array Beispiele
             //Definition eines Arrays
 
             //Deklaration eines Arrays von 3-Feldern 
@@ -59,7 +61,7 @@ namespace Modul003_Arrays_IfStatement
             Console.WriteLine(beispiel[2]); //drittes Zeichen von "Hallo" wird ausgegeben 
 
 
-            for (int counter = 0; counter <= zahlen.Length; counter++)
+            for (int counter = 0; counter < zahlen.Length; counter++)
             {
                 Console.WriteLine(zahlen[counter]);
             }
@@ -87,9 +89,87 @@ namespace Modul003_Arrays_IfStatement
                     Console.WriteLine(zweiDimArray[x,y]);
                 }
             }
+            #endregion
 
 
+            #region Boolische Logik in Verbindung mit Schleife
 
+            int a = 10;
+            int b = 15;
+
+            //UND: Alle Kriterien müssen stimmig sein (true zurückgegben) 
+            if (a== 10 && b== 15)
+            {
+                Console.WriteLine("a hat den Wert 10 und b hat den Wert 15");
+            }
+            
+            //ODER: Ein Ausdruck muss wahr sein (true zurück geben) 
+            if (a == 11 || b == 15)
+            {
+                Console.WriteLine("Variable  a = 11 ODER Variable b=15");
+            }
+
+            int zahl = 369;
+
+            //Ist der Wert der Variable Zahl eine durch 3 Teilbare Zahl. (er Reihenfolge) 
+            
+            //Modulo % -> Gibt die Restsumme bei der Division zurück. Wenn der Wert 0 ist, dann ist, die Zahl (anhand unseren Beispiels) durch 3 Teilbar
+            if (zahl % 3 == 0)
+            {
+                Console.WriteLine("Zahl gehört zu einer 3er Reihenfolge");
+            }
+            #endregion
+
+
+            //Gewinnzahlen als festes Array
+            int[] gewinnzahlen = { 3, 16, 45, 79, 99 };
+
+
+            bool istSchaltjahr = DateTime.IsLeapYear(2000);
+
+
+            #region 1.Aufgabe: Schaltjahr-Rechner
+
+            //Abfrage der Eingabe
+            Console.WriteLine("Gib das Jahr ein:");
+            int eingabe = int.Parse(Console.ReadLine());
+
+            //Deklarierung/Initialisierung der bool-Variablen
+            istSchaltjahr = false;
+
+
+            //Alternative 
+            bool istSchaltjahr2 = DateTime.IsLeapYear(2000);
+
+
+            
+            //Prüfung einer Teilbarkeit durch 4
+            if (eingabe % 4 == 0)
+            {
+                //Setzten der Variablen auf true
+                istSchaltjahr = true;
+
+                //Prüfung einer Teilbarkeit durch 100
+                if (eingabe % 100 == 0)
+                {
+                    //Setzten der Variablen auf false
+                    istSchaltjahr = false;
+
+                    //Prüfung einer Teilbarkeit durch 400
+                    if (eingabe % 400 == 0)
+                        //Setzten der Variablen auf true
+                        istSchaltjahr = true;
+                }
+            }
+
+            //Ausgabe
+            Console.WriteLine($"{eingabe} ist Schaltjahr: {istSchaltjahr}");
+
+            //Alternative (detailiertere) Ausgabe mittels Kurz-Bedingung
+            string ausgabe = istSchaltjahr ? $"{eingabe} ist ein Schaltjahr." : $"{eingabe} ist kein Schaltjahr.";
+            Console.WriteLine(ausgabe + "\n\n\n");
+
+            #endregion
         }
     }
 }

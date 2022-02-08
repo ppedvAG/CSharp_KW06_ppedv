@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\ref\EnumsAndLoopsSamples.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\bin\Debug\net5.0\EnumsAndLoopsSamples.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\ref\EnumsAndLoopsSamples.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\EnumsAndLoopsSamples\obj\Debug\net5.0\EnumsAndLoopsSamples.genruntimeconfig.cache
