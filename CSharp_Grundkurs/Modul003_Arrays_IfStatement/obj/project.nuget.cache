@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jHenh4I1Z5rgV89CK2Y8zlv00MLVFx8Vf0AzCIF8as2G8G1fNfkXBIQE33ReVZsU0IyM/EiMVeEL3GWrfErPA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_KW06_ppedv\\CSharp_Grundkurs\\Modul003_Arrays_IfStatement\\Modul003_Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

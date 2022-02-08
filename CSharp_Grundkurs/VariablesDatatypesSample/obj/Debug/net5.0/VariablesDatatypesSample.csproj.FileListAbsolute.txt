@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\ob
 C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Debug\net5.0\ref\VariablesDatatypesSample.dll
 C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Debug\net5.0\VariablesDatatypesSample.pdb
 C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Debug\net5.0\VariablesDatatypesSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Debug\net5.0\VariablesDatatypesSample.csproj.AssemblyReference.cache

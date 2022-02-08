@@ -46,7 +46,7 @@ namespace VariablesDatatypesSample
 
 
 
-            string str = $"Hallo ich bin der Kevin und wäre zu gerne nochma {alter}";
+            string str = $"Hallo ich bin der Kevin und wäre zu gerne nochmal {alter}";
             Console.WriteLine(str);
 
 
@@ -64,7 +64,7 @@ namespace VariablesDatatypesSample
             Console.WriteLine(withEscapes);
             //Verbatim-String
 
-            Console.ReadKey();
+        
 
             string pfad_mit_escapeZeichen = "C:\\Windows\\Temp";
 
@@ -75,7 +75,62 @@ namespace VariablesDatatypesSample
 
             string pfad_als_verbatimString = @"C:\Windows\Temp";
 
+            string zeichenketteMitZeilenumbruch = @"Hallo das ist ein String 
+                mit einem Zeilenumbruch und dies ist ein    Tabulator";
             #endregion
+
+            #region von String mithilfe der Console
+            //Einlesen von Zeichenkette
+            Console.Write("Bitte geben Sie den Namen ein > "); //Eingabe - Prombt steht hinter ausgabe in der selben Zeile
+            string eingabe = Console.ReadLine();
+
+            //Neue Zeile wird hier verwendet 
+            Console.WriteLine($"Hallo mein Name ist {eingabe}");
+
+            //Einlesen von Zahlen
+            Console.Write("Bitte geben Sie ihre Lieblingszahl ein: ");
+            
+            //Zahl liegt als Zeichenkette vor
+            string input = Console.ReadLine();
+
+            int meineLieblingsZahl = int.Parse(input);
+            //int.TryParse() -> damit können wir überprüfen, ob eine Konventierung geklappt hat 
+
+            int alternativeUmwandlungInZahl = Convert.ToInt32(input);
+
+            //Convert.ToInt32 vs int.Parse -> https://code-maze.com/csharp-intparse-vs-convert-toint32/
+            #endregion
+
+            #region Zahlentypen in der Übersicht
+            int integer = 123;
+            long longInteger = long.MaxValue; //höchster Wert des long-Zahlenraums 
+            short shortInteger = short.MaxValue;
+            byte byteInteger = byte.MaxValue;
+            #endregion
+
+            #region Gleitkomma-Zahlen
+            //decimal soll für Geldbeträge verwendet werden 
+            decimal derDatenFuerDasGeld = 1_000_000m; //Wert 1.000.000 wird der Variable übergeben 
+
+
+            double zero = 0.0;
+            double z = 2 / zero;
+            Console.WriteLine(z);
+
+
+            //Umwandlung mithilfe von Casten 
+            int intZahl = 78;
+            double doubleZahl = intZahl;
+            Console.WriteLine(doubleZahl);
+
+            doubleZahl = 45.75;
+            intZahl = (int)doubleZahl;
+            Console.WriteLine(intZahl);
+
+            float floatNumber = 23.7889f;
+            Console.WriteLine(floatNumber);
+
+            #endregion 
         }
     }
 }

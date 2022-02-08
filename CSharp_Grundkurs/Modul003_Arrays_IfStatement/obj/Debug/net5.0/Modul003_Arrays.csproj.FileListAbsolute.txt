@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\ref\Modul003_Arrays.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\bin\Debug\net5.0\Modul003_Arrays.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\ref\Modul003_Arrays.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul003_Arrays_IfStatement\obj\Debug\net5.0\Modul003_Arrays.genruntimeconfig.cache
