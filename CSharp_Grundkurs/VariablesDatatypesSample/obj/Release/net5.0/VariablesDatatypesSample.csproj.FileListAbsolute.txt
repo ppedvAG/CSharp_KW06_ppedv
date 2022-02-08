@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\ref\VariablesDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\bin\Release\net5.0\VariablesDatatypesSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\ref\VariablesDatatypesSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\VariablesDatatypesSample\obj\Release\net5.0\VariablesDatatypesSample.csproj.AssemblyReference.cache

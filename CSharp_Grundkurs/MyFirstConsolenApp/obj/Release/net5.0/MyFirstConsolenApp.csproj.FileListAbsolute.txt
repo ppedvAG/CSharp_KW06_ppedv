@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\ref\MyFirstConsolenApp.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\bin\Release\net5.0\MyFirstConsolenApp.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\ref\MyFirstConsolenApp.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\MyFirstConsolenApp\obj\Release\net5.0\MyFirstConsolenApp.genruntimeconfig.cache
