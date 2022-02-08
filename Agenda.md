@@ -7,7 +7,7 @@ Codezeilen zu finden. Die Teilnehmer sollen diese Aufgaben im Zweifelsfall auf B
 
 In den Demo- und Lab-Beispielen sind für mehr Übersichtlichkeit sämtliche Dateien zu Einer zusammengefasst.
 
-Letzte Änderung: 15.11.21 Klaas Hagge
+Kursagenda: 08.02.22 Kevin Winter
 
 ## M00 | VORSTELLUNG
 
