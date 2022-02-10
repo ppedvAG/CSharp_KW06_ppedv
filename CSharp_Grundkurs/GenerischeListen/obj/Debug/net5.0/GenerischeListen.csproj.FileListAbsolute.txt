@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\ref\GenerischeListen.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\bin\Debug\net5.0\GenerischeListen.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\ref\GenerischeListen.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\GenerischeListen\obj\Debug\net5.0\GenerischeListen.genruntimeconfig.cache
