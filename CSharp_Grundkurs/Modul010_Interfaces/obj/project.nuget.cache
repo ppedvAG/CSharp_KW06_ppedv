@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijxTQyu8bC2brgOEwAc7bRAoqAj+bUV8kYwEhIzXO5kkr52PY146lSno01MsXM8alG/K0B5Fl07aZ3TJy+lGtg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_KW06_ppedv\\CSharp_Grundkurs\\Modul010_Interfaces\\Modul010_Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
