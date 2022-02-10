@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\ref\Modul007_StructVsClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\bin\Debug\net5.0\Modul007_StructVsClass.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\ref\Modul007_StructVsClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_StructVsClass\obj\Debug\net5.0\Modul007_StructVsClass.genruntimeconfig.cache

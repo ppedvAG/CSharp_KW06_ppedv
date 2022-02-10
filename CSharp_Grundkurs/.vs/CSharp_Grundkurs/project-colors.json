@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c85236d-b426-45db-8a81-c3721349e38a": {
+      "ProjectGuid": "2c85236d-b426-45db-8a81-c3721349e38a",
+      "DisplayName": "FunctionSamples",
+      "ColorIndex": 0
+    },
+    "ab797e47-ec16-49e6-9602-39b44e09b194": {
+      "ProjectGuid": "ab797e47-ec16-49e6-9602-39b44e09b194",
+      "DisplayName": "EnumsAndLoopsSamples",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e9d72e0e-fcc7-4874-86db-c75670e03293": {
+      "ProjectGuid": "e9d72e0e-fcc7-4874-86db-c75670e03293",
+      "DisplayName": "VariablesDatatypesSample",
+      "ColorIndex": 2
+    },
+    "375f52ba-f88f-4bea-8176-286b142ecb56": {
+      "ProjectGuid": "375f52ba-f88f-4bea-8176-286b142ecb56",
+      "DisplayName": "Modul003_Arrays",
+      "ColorIndex": 3
+    },
+    "81cc6ea0-3e2c-4581-bb86-ba4e0f835a03": {
+      "ProjectGuid": "81cc6ea0-3e2c-4581-bb86-ba4e0f835a03",
+      "DisplayName": "001_NamespaceSample",
+      "ColorIndex": 4
+    },
+    "75954599-ec89-4a4c-8d1e-6a6201171e18": {
+      "ProjectGuid": "75954599-ec89-4a4c-8d1e-6a6201171e18",
+      "DisplayName": "002_TheClassSample",
+      "ColorIndex": 5
+    },
+    "48bd225a-2c4c-4d8c-82af-41d6dd12f1cc": {
+      "ProjectGuid": "48bd225a-2c4c-4d8c-82af-41d6dd12f1cc",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 6
+    },
+    "18ab76c0-78fd-4f4c-8059-7f4ffdbf35c3": {
+      "ProjectGuid": "18ab76c0-78fd-4f4c-8059-7f4ffdbf35c3",
+      "DisplayName": "PartialClass",
+      "ColorIndex": 7
+    },
+    "6f9a0392-61f2-4b34-88fe-611241735a2b": {
+      "ProjectGuid": "6f9a0392-61f2-4b34-88fe-611241735a2b",
+      "DisplayName": "Modul007_statische Variablen und Methoden",
+      "ColorIndex": 8
+    },
+    "d94b3d6c-f5ca-4174-abc7-f0af42b9b616": {
+      "ProjectGuid": "d94b3d6c-f5ca-4174-abc7-f0af42b9b616",
+      "DisplayName": "Modul007_StructVsClass",
+      "ColorIndex": 9
+    },
+    "7ee530d7-771d-4006-99e8-e0fd7ab4288d": {
+      "ProjectGuid": "7ee530d7-771d-4006-99e8-e0fd7ab4288d",
+      "DisplayName": "Modul008_Vererbung",
+      "ColorIndex": 10
+    },
+    "21889828-40bb-4aae-b0bb-8c71a9c99dea": {
+      "ProjectGuid": "21889828-40bb-4aae-b0bb-8c71a9c99dea",
+      "DisplayName": "Modul008_Virtual",
+      "ColorIndex": 11
+    },
+    "94ec57d6-e1dc-41c7-84b6-677bfcbe0a86": {
+      "ProjectGuid": "94ec57d6-e1dc-41c7-84b6-677bfcbe0a86",
+      "DisplayName": "Modul008_VirtualWithProperties",
+      "ColorIndex": 12
+    },
+    "62486e80-8093-4cb8-bd8e-6bb18dde0fef": {
+      "ProjectGuid": "62486e80-8093-4cb8-bd8e-6bb18dde0fef",
+      "DisplayName": "Modul009_Polymorphie_abstract",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

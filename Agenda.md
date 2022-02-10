@@ -141,6 +141,7 @@ Kursagenda: 08.02.22 Kevin Winter
 - [ ] Erweiterungsmethoden
 - [ ] LINQ
 - [ ] Timer
+- [ ] SOLID - Regeln 
 
 -Alternativ können hier je nach Zeit und Teilnehmerbedarf auch andere Themen (z.B. Deployment / Klassendiagramme) durchgenommen
 	oder evtl ein Abschlussprojekt durchgeführt werden (vgl. hierfür M016-(Alternativen)).

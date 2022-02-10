@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\ref\Modul007_statische Variablen und Methoden.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\ref\Modul007_statische Variablen und Methoden.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul007_Samples\obj\Debug\net5.0\Modul007_statische Variablen und Methoden.genruntimeconfig.cache

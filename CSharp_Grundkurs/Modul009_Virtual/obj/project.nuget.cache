@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOcM0F92TUbvprQOcpMEleNtVrDPVL4oNDj8RIZpm+snLJGiQnXn1sAoQqWqHUdds1s3fVAy028VPqe3Q43DiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_KW06_ppedv\\CSharp_Grundkurs\\Modul009_Virtual\\Modul009_Virtual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

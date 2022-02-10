@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\ref\Modul009_Virtual.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\bin\Debug\net5.0\Modul009_Virtual.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\ref\Modul009_Virtual.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul009_Virtual\obj\Debug\net5.0\Modul009_Virtual.genruntimeconfig.cache

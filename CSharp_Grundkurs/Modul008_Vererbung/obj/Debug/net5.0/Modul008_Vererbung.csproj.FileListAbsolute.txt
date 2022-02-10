@@ -1,0 +1,23 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\ref\Modul008_Vererbung.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul008_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\bin\Debug\net5.0\Modul007_statische Variablen und Methoden.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\ref\Modul008_Vererbung.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Modul008_Vererbung\obj\Debug\net5.0\Modul008_Vererbung.genruntimeconfig.cache

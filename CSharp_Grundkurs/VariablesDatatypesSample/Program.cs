@@ -55,7 +55,7 @@ namespace VariablesDatatypesSample
             int a = 45;
             int b = 12;
             Console.WriteLine($"{a} + {b}");
-
+            Console.WriteLine($"Ergebnis: {a + b}");
 
             //Was sind EscapeZeichen in einem String
             //https://docs.microsoft.com/de-de/cpp/c-language/escape-sequences?view=msvc-170
