@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZzBqOU2k+Ck0+zRjX6700nzCe3w8DjNNBGvZSCIs0HoOxs5KhvVD1l244sBu8kucrinNZOAa3iUam0SRj4Chg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_KW06_ppedv\\CSharp_Grundkurs\\SOLID_004_DependencyInversion\\SOLID_004_DependencyInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
