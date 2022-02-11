@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\ref\SOLID_002_OpenClosePrincip.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\bin\Debug\net5.0\SOLID_002_OpenClosePrincip.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\ref\SOLID_002_OpenClosePrincip.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_002_OpenClosePrincip\obj\Debug\net5.0\SOLID_002_OpenClosePrincip.genruntimeconfig.cache

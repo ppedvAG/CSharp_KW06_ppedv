@@ -2,6 +2,9 @@
 
 namespace SOLID_004_DependencyInversion
 {
+
+    //IOC - Container verwendet Instanzen die von Dependency Inversion stammen. 
+
     internal class Program
     {
         static void Main(string[] args)
@@ -91,7 +94,18 @@ namespace SOLID_004_DependencyInversion
     //Programmierer B -> 3 Tage (Tag 1 bis Tag 3) 
     public class CarService : ICarService
     {
-        public void Repair(ICar car)
+        private readonly ICar _car;
+
+        public CarService()
+        {
+
+        }
+
+        public CarService(ICar car) //Konstruktor-Injection
+        {
+            _car = car; 
+        }
+        public void Repair(ICar car) //Methoden - Injection 
         {
            //reapiere Auto 
         }

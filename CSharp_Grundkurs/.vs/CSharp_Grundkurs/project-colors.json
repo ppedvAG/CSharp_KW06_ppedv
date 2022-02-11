@@ -75,7 +75,52 @@
       "ProjectGuid": "62486e80-8093-4cb8-bd8e-6bb18dde0fef",
       "DisplayName": "Modul009_Polymorphie_abstract",
       "ColorIndex": 13
+    },
+    "cfee7964-8cbd-4a45-85b2-239fd52c556d": {
+      "ProjectGuid": "cfee7964-8cbd-4a45-85b2-239fd52c556d",
+      "DisplayName": "Modul009_Virtual",
+      "ColorIndex": 14
+    },
+    "d359e09e-a447-4f9d-9340-2dfe518caf9f": {
+      "ProjectGuid": "d359e09e-a447-4f9d-9340-2dfe518caf9f",
+      "DisplayName": "Modul009_abstract",
+      "ColorIndex": 15
+    },
+    "71b573b5-5c7b-4c2f-9b30-bd347e8838d1": {
+      "ProjectGuid": "71b573b5-5c7b-4c2f-9b30-bd347e8838d1",
+      "DisplayName": "Modul010_Interfaces",
+      "ColorIndex": 0
+    },
+    "e18901c3-08db-4480-8162-5fef6107a61f": {
+      "ProjectGuid": "e18901c3-08db-4480-8162-5fef6107a61f",
+      "DisplayName": "SOLID_001_SingleResponsibilityPrincip",
+      "ColorIndex": 1
+    },
+    "838f420e-30b3-4c77-a66b-1e6559612d9a": {
+      "ProjectGuid": "838f420e-30b3-4c77-a66b-1e6559612d9a",
+      "DisplayName": "SOLID_002_OpenClosePrincip",
+      "ColorIndex": 2
+    },
+    "fbda3ca9-d2df-493a-b392-917d1c7327e3": {
+      "ProjectGuid": "fbda3ca9-d2df-493a-b392-917d1c7327e3",
+      "DisplayName": "SOLID_003_LizkovischesPrincipe",
+      "ColorIndex": 3
+    },
+    "33307236-46b1-41c6-a2b1-be8a2bc12ccf": {
+      "ProjectGuid": "33307236-46b1-41c6-a2b1-be8a2bc12ccf",
+      "DisplayName": "SOLID_004_DependencyInversion",
+      "ColorIndex": 4
+    },
+    "031521fd-fb6b-40ed-8838-6b2e7531964c": {
+      "ProjectGuid": "031521fd-fb6b-40ed-8838-6b2e7531964c",
+      "DisplayName": "SOLID_005_InterfaceSegregationPrincip",
+      "ColorIndex": 5
+    },
+    "de009a0f-12e5-406a-b90b-eb79029958b1": {
+      "ProjectGuid": "de009a0f-12e5-406a-b90b-eb79029958b1",
+      "DisplayName": "GenerischeListen",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 7
 }

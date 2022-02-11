@@ -64,16 +64,16 @@ namespace Modul008_Vererbung
             return $"Der Mensch {Vorname} {Nachname} ist {AlterInJahren} und wohnt in {Wohnort}";
         }
 
-        public sealed override void Fortbewegung()
-        {
-            //base.Fortbewegung(); -> optional kann man die Basis-Methode zusätzlich aufrufen 
-            Console.WriteLine("Der Mensch läuft auf zwei Beine");
-        }
+        //public sealed override void Fortbewegung()
+        //{
+        //    //base.Fortbewegung(); -> optional kann man die Basis-Methode zusätzlich aufrufen 
+        //    Console.WriteLine("Der Mensch läuft auf zwei Beine");
+        //}
 
-        public new void Kommunikation()
-        {
-            Console.WriteLine("Der Mensch spricht"); 
-        }
+        //public new void Kommunikation()
+        //{
+        //    Console.WriteLine("Der Mensch spricht"); 
+        //}
     }
 
     public class Employee : Mensch //public, internal ... 

@@ -36,7 +36,7 @@ namespace Modul010_Interfaces
 
     public class JahrmarktPlatz
     {
-        public string Bezeichnung { get; set}
+        public string Bezeichnung { get; set; }
         public decimal Miete { get; set; }
         public double Fläche { get; set; }
 

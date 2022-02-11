@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\ref\001_NamespaceSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\bin\Debug\net5.0\001_NamespaceSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\ref\001_NamespaceSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\NamespaceSample\obj\Debug\net5.0\001_NamespaceSample.genruntimeconfig.cache

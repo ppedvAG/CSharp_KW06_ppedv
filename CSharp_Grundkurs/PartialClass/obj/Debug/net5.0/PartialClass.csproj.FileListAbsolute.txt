@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

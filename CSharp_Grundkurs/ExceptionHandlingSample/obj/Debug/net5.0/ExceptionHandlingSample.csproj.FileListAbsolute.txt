@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ref\ExceptionHandlingSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\bin\Debug\net5.0\ExceptionHandlingSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ref\ExceptionHandlingSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\ExceptionHandlingSample\obj\Debug\net5.0\ExceptionHandlingSample.genruntimeconfig.cache

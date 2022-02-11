@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\ref\002_TheClassSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\bin\Debug\net5.0\002_TheClassSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\ref\002_TheClassSample.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\TheClassSample\obj\Debug\net5.0\002_TheClassSample.genruntimeconfig.cache

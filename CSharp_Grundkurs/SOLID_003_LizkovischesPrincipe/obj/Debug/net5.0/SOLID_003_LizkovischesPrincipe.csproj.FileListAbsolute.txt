@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\ref\SOLID_003_LizkovischesPrincipe.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\bin\Debug\net5.0\SOLID_003_LizkovischesPrincipe.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\ref\SOLID_003_LizkovischesPrincipe.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\SOLID_003_LizkovischesPrincipe\obj\Debug\net5.0\SOLID_003_LizkovischesPrincipe.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.exe
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.deps.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\ref\Calculator.App.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\bin\Debug\net5.0\Calculator.App.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\ref\Calculator.App.dll
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.pdb
+C:\Aktueller Kurs\CSharp_KW06_ppedv\CSharp_Grundkurs\Calculator.App\obj\Debug\net5.0\Calculator.App.genruntimeconfig.cache
